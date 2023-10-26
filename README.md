@@ -74,7 +74,7 @@ content = """
 </body>
 </html>
 """
-class myhandler(BaseHTTPRequestHandler):
+```class myhandler(BaseHTTPRequestHandler):
     def do_GET(self):
         print("request received")
         self.send_response(200)
