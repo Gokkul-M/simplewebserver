@@ -79,7 +79,7 @@ httpd.serve_forever()
 
 ```
 ## OUTPUT:
-![Alt text](image-1.png)
+![image](https://github.com/Gokkul-M/simplewebserver/assets/144870543/71430571-5da8-4fc9-ba04-412893081077)
 ![Screenshot 2023-11-03 150154](https://github.com/Gokkul-M/simplewebserver/assets/144870543/d10daa61-8f1e-45ab-bc89-f8ee171a5d77)
 
 ## RESULT:
