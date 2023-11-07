@@ -79,8 +79,9 @@ httpd.serve_forever()
 
 ```
 ## OUTPUT:
-![image](https://github.com/Gokkul-M/simplewebserver/assets/144870543/71430571-5da8-4fc9-ba04-412893081077)
-![Screenshot 2023-11-03 150154](https://github.com/Gokkul-M/simplewebserver/assets/144870543/d10daa61-8f1e-45ab-bc89-f8ee171a5d77)
+![Screenshot 2023-11-07 170035](https://github.com/Gokkul-M/simplewebserver/assets/144870543/8d5cf588-d682-45e6-8a29-93aedf822118)
+![Screenshot 2023-11-07 170124](https://github.com/Gokkul-M/simplewebserver/assets/144870543/89518073-343a-47d0-b957-5a6a13e5d910)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
