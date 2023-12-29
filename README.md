@@ -31,32 +31,32 @@ content = """
 		<table border="2" cellspacing="2" cellpadding="3">
 			<caption> Top five highest revenue generating software companies </caption>
 				<tr>
-					<th> Serial Number </th>
-					<th> Companies </th>
-					<th> Revenue Generated </th>
+					<td> Serial Number </td>
+					<td> Companies </td>
+					<td> Revenue Generated </td>
 				</tr>
 				<tr>
-					<th> 1, </th>
+					<td> 1, </td>
 					<td> Microsoft </td>
 					<td> $203.08 billion </td>
 				</tr>
 				<tr>
-					<th> 2, </th>
+					<td> 2, </td>
 					<td> Oracle </td>
 					<td> $46.07 billion </td>
 				</tr>
 				<tr>
-					<th> 3, </th>
+					<td> 3, </td>
 					<td> SAP </td>
 					<td> $32.97 billion </td>
 				</tr>		
 				<tr>
-					<th> 4, </th>
+					<td> 4, </td>
 					<td> Salesforce </td>
 					<td> $30.29 billion </td>
 				</tr>
 				<tr>
-					<th> 5, </th>
+					<td> 5, </td>
 					<td> Adobe </td>
 					<td> $17.61 billion </td>
 				</tr>
